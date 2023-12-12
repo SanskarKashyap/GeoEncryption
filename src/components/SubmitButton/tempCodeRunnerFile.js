@@ -1,0 +1,1 @@
+Email: ${email && EmailInput.name }, File: ${file && file.name}, Key: ${key}, Location: ${location}
